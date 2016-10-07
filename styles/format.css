@@ -1,0 +1,16 @@
+html{
+	margin: 0;
+	font-family: Arial, sans-serif;
+}
+
+body{
+	opacity: .65;
+	margin: 0;
+}
+
+.infobox{
+	background-color: #09E85E;
+	border-radius: 20px;
+}
+
+
