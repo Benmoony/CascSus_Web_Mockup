@@ -11,6 +11,12 @@ body{
 .infobox{
 	background-color: #09E85E;
 	border-radius: 20px;
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
 }
 
 

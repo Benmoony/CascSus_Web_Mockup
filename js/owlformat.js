@@ -2,8 +2,8 @@ window.onload = function() {
 
 	$('.owl-carousel').owlCarousel({
         loop:true,
-        width:150,
-        height:100, 
+        width:300,
+        height:200, 
         margin:10,
         responsiveClass:true,
         responsive:{
